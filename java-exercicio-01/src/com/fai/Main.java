@@ -3,7 +3,9 @@ package com.fai;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		void 
+		Scanner s = new Scanner(System.in)
 
 	}
 
